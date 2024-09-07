@@ -1,0 +1,3 @@
+numpy==2.0.1
+matplotlib==3.9.1
+tqdm==4.66.4  # This version was used in the original paper, but other versions are likely compatible
